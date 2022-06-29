@@ -191,7 +191,7 @@
             this.Controls.Add(this.btnagregar);
             this.Controls.Add(this.lbasignados);
             this.Controls.Add(this.lbporasignar);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
             this.Name = "frmCrearNivelDetalle";
             this.Text = "Asignar Grados por Nivel Academico";

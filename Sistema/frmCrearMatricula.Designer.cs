@@ -170,7 +170,7 @@
             this.Controls.Add(this.label22);
             this.Controls.Add(this.cbonivelacademico);
             this.Controls.Add(this.label21);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
             this.Name = "frmCrearMatricula";
             this.Text = "Crear Matricula";

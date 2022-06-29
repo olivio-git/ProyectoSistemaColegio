@@ -274,7 +274,7 @@
             this.Controls.Add(this.btncancelar);
             this.Controls.Add(this.btnguardar);
             this.Controls.Add(this.gbdatos);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
             this.Name = "frmCrearRol";
             this.Text = "Crear Rol";

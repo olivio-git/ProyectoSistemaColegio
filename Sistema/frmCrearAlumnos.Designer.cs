@@ -429,7 +429,7 @@
             this.Controls.Add(this.btncancelar);
             this.Controls.Add(this.btnguardar);
             this.ForeColor = System.Drawing.Color.Black;
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
             this.Name = "frmCrearAlumnos";
             this.Text = "Crear Alumnos";

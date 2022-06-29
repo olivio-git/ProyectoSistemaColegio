@@ -133,6 +133,7 @@
             this.Controls.Add(this.cboFiltro);
             this.Controls.Add(this.label10);
             this.Controls.Add(this.dgvdata);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
             this.Name = "frmBusqueda";
             this.Text = "Busqueda";

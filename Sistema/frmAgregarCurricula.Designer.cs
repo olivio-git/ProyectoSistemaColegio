@@ -40,10 +40,10 @@
             this.txtdescripcion = new System.Windows.Forms.TextBox();
             this.btnagregar = new System.Windows.Forms.Button();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.btnbuscar = new System.Windows.Forms.Button();
             this.dgvdata = new System.Windows.Forms.DataGridView();
             this.label6 = new System.Windows.Forms.Label();
             this.cbodocente = new System.Windows.Forms.ComboBox();
-            this.btnbuscar = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvdata)).BeginInit();
             this.SuspendLayout();
@@ -176,6 +176,20 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Datos";
             // 
+            // btnbuscar
+            // 
+            this.btnbuscar.BackColor = System.Drawing.Color.RoyalBlue;
+            this.btnbuscar.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnbuscar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btnbuscar.ForeColor = System.Drawing.Color.White;
+            this.btnbuscar.Location = new System.Drawing.Point(559, 36);
+            this.btnbuscar.Name = "btnbuscar";
+            this.btnbuscar.Size = new System.Drawing.Size(91, 23);
+            this.btnbuscar.TabIndex = 34;
+            this.btnbuscar.Text = "Buscar";
+            this.btnbuscar.UseVisualStyleBackColor = false;
+            this.btnbuscar.Click += new System.EventHandler(this.btnbuscar_Click);
+            // 
             // dgvdata
             // 
             this.dgvdata.AllowUserToAddRows = false;
@@ -212,20 +226,6 @@
             this.cbodocente.TabIndex = 37;
             this.cbodocente.SelectionChangeCommitted += new System.EventHandler(this.cbodocente_SelectionChangeCommitted);
             // 
-            // btnbuscar
-            // 
-            this.btnbuscar.BackColor = System.Drawing.Color.RoyalBlue;
-            this.btnbuscar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnbuscar.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.btnbuscar.ForeColor = System.Drawing.Color.White;
-            this.btnbuscar.Location = new System.Drawing.Point(559, 36);
-            this.btnbuscar.Name = "btnbuscar";
-            this.btnbuscar.Size = new System.Drawing.Size(91, 23);
-            this.btnbuscar.TabIndex = 34;
-            this.btnbuscar.Text = "Buscar";
-            this.btnbuscar.UseVisualStyleBackColor = false;
-            this.btnbuscar.Click += new System.EventHandler(this.btnbuscar_Click);
-            // 
             // frmAgregarCurricula
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -238,7 +238,7 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.cboperiodo);
             this.Controls.Add(this.label1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
             this.Name = "frmAgregarCurricula";
             this.Text = "Agregar Curricula";

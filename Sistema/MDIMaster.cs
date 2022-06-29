@@ -11,12 +11,16 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using System.Runtime.InteropServices;
 namespace Sistema
 {
-    public partial class MDIMaster : Form
+    public partial class MDIMaster : MaterialSkin.Controls.MaterialForm
     {
         public static int IdUsuario;
+        [DllImport("user32.dll", EntryPoint = "ReleaseCapture")]
+        private extern static void ReleaseCapture();
+        [DllImport("user32.dll", EntryPoint = "SendMessage")]
+        private extern static void SendMessage(System.IntPtr hWnd, int wmsg, int wParam, int lParam);
         public MDIMaster(int pIdUsuario = 0)
         {
             InitializeComponent();
@@ -25,13 +29,19 @@ namespace Sistema
             this.IsMdiContainer = true;
             //this.MaximizeBox = false;
             //this.MinimizeBox = false;
-            this.WindowState = FormWindowState.Maximized;
+            this.WindowState = FormWindowState.Normal;
+
+            ReleaseCapture();
+            SendMessage(this.Handle, 0x112, 0xf012, 0);
         }
 
         private void MDIMaster_Load(object sender, EventArgs e)
         {
+            ReleaseCapture();
+            SendMessage(this.Handle, 0x112, 0xf012, 0);
+
             this.IsMdiContainer = true;
-            this.WindowState = FormWindowState.Maximized;
+            this.WindowState = FormWindowState.Normal;
 
             if (IdUsuario == 0)
             {
@@ -129,7 +139,7 @@ namespace Sistema
                     Form formulario = (Form)Activator.CreateInstance(formtype);
                     MostrarFormulario(formulario, this);
 
-                    formulario.WindowState = FormWindowState.Normal;
+                    formulario.WindowState = FormWindowState.Maximized;
                     formulario.StartPosition = FormStartPosition.CenterScreen;
                     formulario.Activate();
                 }
@@ -157,8 +167,9 @@ namespace Sistema
             }
             else
             {
-                FormularioEncontrado.WindowState = FormWindowState.Normal;
+                FormularioEncontrado.WindowState = FormWindowState.Maximized;
                 FormularioEncontrado.Activate();
+               
             }
 
         }

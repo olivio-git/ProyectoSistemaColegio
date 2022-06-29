@@ -191,3 +191,4 @@ D:\DescargasD\ProyectoPara_git\ProyectoSistemaColegio\Sistema\obj\Debug\Sistema.
 D:\DescargasD\ProyectoPara_git\ProyectoSistemaColegio\Sistema\obj\Debug\Sistema.csproj.CopyComplete
 D:\DescargasD\ProyectoPara_git\ProyectoSistemaColegio\Sistema\obj\Debug\Sistema.exe
 D:\DescargasD\ProyectoPara_git\ProyectoSistemaColegio\Sistema\obj\Debug\Sistema.pdb
+D:\DescargasD\ProyectoPara_git\ProyectoSistemaColegio\Sistema\bin\Debug\MaterialSkin.dll

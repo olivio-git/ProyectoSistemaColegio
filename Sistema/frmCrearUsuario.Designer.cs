@@ -56,8 +56,8 @@
             this.btncancelar = new System.Windows.Forms.Button();
             this.btnguardar = new System.Windows.Forms.Button();
             this.gbdatos = new System.Windows.Forms.GroupBox();
-            this.txtidreferencia = new System.Windows.Forms.TextBox();
             this.txtidusuario = new System.Windows.Forms.TextBox();
+            this.txtidreferencia = new System.Windows.Forms.TextBox();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvdata)).BeginInit();
             this.gbdatos.SuspendLayout();
@@ -372,14 +372,6 @@
             this.gbdatos.TabStop = false;
             this.gbdatos.Text = "Datos";
             // 
-            // txtidreferencia
-            // 
-            this.txtidreferencia.Location = new System.Drawing.Point(292, 22);
-            this.txtidreferencia.Name = "txtidreferencia";
-            this.txtidreferencia.Size = new System.Drawing.Size(32, 20);
-            this.txtidreferencia.TabIndex = 18;
-            this.txtidreferencia.Visible = false;
-            // 
             // txtidusuario
             // 
             this.txtidusuario.Location = new System.Drawing.Point(330, 22);
@@ -387,6 +379,14 @@
             this.txtidusuario.Size = new System.Drawing.Size(48, 20);
             this.txtidusuario.TabIndex = 19;
             this.txtidusuario.Visible = false;
+            // 
+            // txtidreferencia
+            // 
+            this.txtidreferencia.Location = new System.Drawing.Point(292, 22);
+            this.txtidreferencia.Name = "txtidreferencia";
+            this.txtidreferencia.Size = new System.Drawing.Size(32, 20);
+            this.txtidreferencia.TabIndex = 18;
+            this.txtidreferencia.Visible = false;
             // 
             // frmCrearUsuario
             // 
@@ -401,9 +401,10 @@
             this.Controls.Add(this.btncancelar);
             this.Controls.Add(this.btnguardar);
             this.Controls.Add(this.groupBox2);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
             this.Name = "frmCrearUsuario";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Crear Usuario";
             this.Load += new System.EventHandler(this.frmCrearUsuario_Load);
             this.groupBox2.ResumeLayout(false);

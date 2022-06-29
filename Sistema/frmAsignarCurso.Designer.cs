@@ -217,7 +217,7 @@
             this.Controls.Add(this.btnagregar);
             this.Controls.Add(this.lbasignados);
             this.Controls.Add(this.lbporasignar);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
             this.Name = "frmAsignarCurso";
             this.Text = "Asignar Curso";

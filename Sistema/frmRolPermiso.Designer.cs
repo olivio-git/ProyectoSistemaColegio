@@ -120,7 +120,7 @@
             this.Controls.Add(this.btnBuscarPermisos);
             this.Controls.Add(this.cboRol);
             this.Controls.Add(this.label1);
-            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
             this.Name = "frmRolPermiso";
             this.Text = "Asignar Rol Permiso";
