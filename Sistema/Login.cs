@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using System.Runtime.InteropServices;
 namespace Sistema
 {
     public partial class Login : Form
@@ -18,7 +18,10 @@ namespace Sistema
         {
             InitializeComponent();
         }
-
+        [DllImport("user32.dll", EntryPoint = "ReleaseCapture")]
+        private extern static void ReleaseCapture();
+        [DllImport("user32.dll", EntryPoint ="SendMessage")]
+        private extern static void SendMessage(System.IntPtr hWnd, int wmsg, int wParam, int lParam);
         private void btnIngresar_Click(object sender, EventArgs e)
         {
             int IdUsuario = CD_Usuario.LoginUsuario(txtUsuario.Text, txtClave.Text);
@@ -124,6 +127,18 @@ namespace Sistema
                 txtClave.ForeColor= Color.DimGray;
                 txtClave.UseSystemPasswordChar = false;
             }
+        }
+
+        private void Login_MouseDown(object sender, MouseEventArgs e)
+        {
+            ReleaseCapture();
+            SendMessage(this.Handle, 0x112, 0xf012, 0);
+        }
+
+        private void panel1_MouseDown(object sender, MouseEventArgs e)
+        {
+            ReleaseCapture();
+            SendMessage(this.Handle, 0x112, 0xf012, 0);
         }
     }
 }

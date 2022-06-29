@@ -320,6 +320,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Iconos\Alumnos.png" />
+    <Content Include="Iconos\COLEGIO-BRITANICOblanco.png" />
     <Content Include="Iconos\Configuracion.png" />
     <Content Include="Iconos\Cursos.png" />
     <Content Include="Iconos\Docentes.png" />
