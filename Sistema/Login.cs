@@ -87,5 +87,43 @@ namespace Sistema
         {
             this.Close();
         }
+
+        private void txtUsuario_Enter(object sender, EventArgs e)
+        {
+            if (txtUsuario.Text == "USUARIO")
+            {
+                txtUsuario.Text = "";
+                txtUsuario.ForeColor = Color.LightGray;
+            }
+        }
+
+        private void txtUsuario_Leave(object sender, EventArgs e)
+        {
+            if(txtUsuario.Text == "")
+            {
+                txtUsuario.Text = "USUARIO";
+                txtUsuario.ForeColor = Color.DimGray;
+            }
+        }
+
+        private void txtClave_Enter(object sender, EventArgs e)
+        {
+            if( txtClave.Text == "CONTRASEÑA")
+            {
+                txtClave.Text = "";
+                txtClave.ForeColor = Color.LightGray;
+                txtClave.UseSystemPasswordChar= true;
+            }
+        }
+
+        private void txtClave_Leave(object sender, EventArgs e)
+        {
+            if(txtClave.Text == "")
+            {
+                txtClave.Text = "CONTRASEÑA";
+                txtClave.ForeColor= Color.DimGray;
+                txtClave.UseSystemPasswordChar = false;
+            }
+        }
     }
 }
