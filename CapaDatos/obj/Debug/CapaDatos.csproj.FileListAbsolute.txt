@@ -1,0 +1,18 @@
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaDatos\bin\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaDatos\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaDatos\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaDatos\obj\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\DescargasD\Proyecto\CapaDatos\bin\Debug\CapaDatos.dll
+D:\DescargasD\Proyecto\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\DescargasD\Proyecto\CapaDatos\bin\Debug\CapaModelo.dll
+D:\DescargasD\Proyecto\CapaDatos\bin\Debug\CapaModelo.pdb
+D:\DescargasD\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+D:\DescargasD\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\DescargasD\Proyecto\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\DescargasD\Proyecto\CapaDatos\obj\Debug\CapaDatos.dll
+D:\DescargasD\Proyecto\CapaDatos\obj\Debug\CapaDatos.pdb

@@ -1,0 +1,144 @@
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\Sistema.exe.config
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\Sistema.exe
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\Sistema.pdb
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.csprojAssemblyReference.cache
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.exe
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.pdb
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.MDIMaster.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\CapaDatos.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\CapaModelo.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\CapaDatos.pdb
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\CapaModelo.pdb
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.csproj.CopyComplete
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearAlumnos.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearDocentes.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearPeriodo.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearNivel.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearGradoSeccion.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearNivelDetalle.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearVacantes.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearCursos.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmAsignarCurso.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearHorario.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmAsignarDocente.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearRol.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmRolPermiso.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmAgregarCurricula.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearMatricula.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmRegistrarMatricula.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmBusqueda.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmAgregarCalificacion.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmReporteAlumnos.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmReporteMatricula.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\ClosedXML.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\DocumentFormat.OpenXml.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\ExcelNumberFormat.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\System.IO.Packaging.dll
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\ClosedXML.pdb
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\ClosedXML.xml
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\DocumentFormat.OpenXml.xml
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\bin\Debug\ExcelNumberFormat.xml
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.frmCrearUsuario.resources
+D:\WorkSpaceAD\YOUTUBE\014_FUNCIONALIDAD SISTEMA COLEGIO\Proyecto\Sistema\obj\Debug\Sistema.Login.resources
+D:\DescargasD\Proyecto\Sistema\bin\Debug\Sistema.exe.config
+D:\DescargasD\Proyecto\Sistema\bin\Debug\Sistema.exe
+D:\DescargasD\Proyecto\Sistema\bin\Debug\Sistema.pdb
+D:\DescargasD\Proyecto\Sistema\bin\Debug\CapaDatos.dll
+D:\DescargasD\Proyecto\Sistema\bin\Debug\CapaModelo.dll
+D:\DescargasD\Proyecto\Sistema\bin\Debug\ClosedXML.dll
+D:\DescargasD\Proyecto\Sistema\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DescargasD\Proyecto\Sistema\bin\Debug\ExcelNumberFormat.dll
+D:\DescargasD\Proyecto\Sistema\bin\Debug\System.IO.Packaging.dll
+D:\DescargasD\Proyecto\Sistema\bin\Debug\CapaDatos.pdb
+D:\DescargasD\Proyecto\Sistema\bin\Debug\CapaModelo.pdb
+D:\DescargasD\Proyecto\Sistema\bin\Debug\ClosedXML.pdb
+D:\DescargasD\Proyecto\Sistema\bin\Debug\ClosedXML.xml
+D:\DescargasD\Proyecto\Sistema\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DescargasD\Proyecto\Sistema\bin\Debug\ExcelNumberFormat.xml
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.csproj.AssemblyReference.cache
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.csproj.SuggestedBindingRedirects.cache
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmAgregarCalificacion.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmAgregarCurricula.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmAsignarCurso.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmAsignarDocente.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmBusqueda.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmCrearAlumnos.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmCrearCursos.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmCrearDocentes.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmCrearGradoSeccion.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmCrearHorario.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmCrearMatricula.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmCrearUsuario.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmRegistrarMatricula.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmCrearNivel.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmCrearNivelDetalle.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmCrearPeriodo.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmCrearRol.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmCrearVacantes.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmReporteAlumnos.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmReporteMatricula.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.frmRolPermiso.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.Login.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.MDIMaster.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.csproj.CopyComplete
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.exe
+D:\DescargasD\Proyecto\Sistema\obj\Debug\Sistema.pdb
+D:\DescargasD\Proyecto\Sistema\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\DescargasD\Proyecto\Sistema\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\DescargasD\Proyecto\Sistema\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\bin\Debug\Sistema.exe.config
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\bin\Debug\Sistema.exe
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\bin\Debug\Sistema.pdb
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\bin\Debug\CapaDatos.dll
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\bin\Debug\CapaModelo.dll
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\bin\Debug\ClosedXML.dll
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\bin\Debug\DocumentFormat.OpenXml.dll
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\bin\Debug\ExcelNumberFormat.dll
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\bin\Debug\System.IO.Packaging.dll
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\bin\Debug\CapaDatos.pdb
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\bin\Debug\CapaModelo.pdb
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\bin\Debug\ClosedXML.pdb
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\bin\Debug\ClosedXML.xml
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\bin\Debug\DocumentFormat.OpenXml.xml
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\bin\Debug\ExcelNumberFormat.xml
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.csproj.AssemblyReference.cache
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.csproj.SuggestedBindingRedirects.cache
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmAgregarCalificacion.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmAgregarCurricula.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmAsignarCurso.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmAsignarDocente.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmBusqueda.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmCrearAlumnos.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmCrearCursos.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmCrearDocentes.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmCrearGradoSeccion.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmCrearHorario.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmCrearMatricula.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmCrearUsuario.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmRegistrarMatricula.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmCrearNivel.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmCrearNivelDetalle.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmCrearPeriodo.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmCrearRol.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmCrearVacantes.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmReporteAlumnos.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmReporteMatricula.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.frmRolPermiso.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.Login.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.MDIMaster.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.Properties.Resources.resources
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.csproj.GenerateResource.cache
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.csproj.CoreCompileInputs.cache
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.csproj.CopyComplete
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.exe
+D:\DescargasD\ProyectoPara_git\Proyecto\Sistema\obj\Debug\Sistema.pdb
